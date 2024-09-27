@@ -1,0 +1,41 @@
+h2{
+    text-align: center;
+}
+
+.bloque1{
+    background-color: blue;
+    color: aliceblue;
+    text-align: justify;
+    width: 200px;
+    height: 300px;
+    border: solid 3px red;
+    display:inline-block;
+    padding: 15px;
+    
+}
+
+.bloque2{
+    background-color:rgb(39, 230, 39);
+    color: aliceblue;
+    text-align: justify;
+    width: 200px;
+    height: 300px;
+    border: solid 3px red;
+    display:inline-block;
+    padding: 15px;
+    
+}
+
+.bloque3{
+    background-color:rgb(245, 245, 19);
+    color: aliceblue;
+    text-align: justify;
+    width: 200px;
+    height: 300px;
+    border: solid 3px red;
+    display:inline-block;
+    padding: 15px;
+    
+}
+
+
